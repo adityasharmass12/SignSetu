@@ -1,0 +1,12 @@
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+umap-learn
+jupyter
+kaggle
+tqdm

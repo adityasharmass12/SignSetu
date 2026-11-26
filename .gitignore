@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build outputs
+frontend/dist/
+frontend/.vite/
+
+# ML data and artifacts
+data/
+models/
+ml/data/
+ml/models/
+ml/checkpoints/
+*.h5
+*.keras
+*.onnx
+
+# Backend
+backend/db.sqlite3
+backend/*.log
+
+# Secrets and credentials
+.env
+.env.local
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
